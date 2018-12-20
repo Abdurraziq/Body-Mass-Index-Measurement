@@ -6,7 +6,7 @@ Inti dari project ini adalah bagaimana membuat sebuah alat pengukur indeks massa
 
 ## Kebutuhan Perangkat Keras
 
-Untuk membangun alat pengukur indeks massa tubuh ini terdapat beberapa perangkat keras yang diperlukan yaitu;
+Untuk membangun alat pengukur indeks massa tubuh ini yang diperlukan beberapa perangkat keras yaitu;
 
 1. Arduino Uno R3
 2. Modul Sensor Ultrasonic HC-SR04
@@ -21,7 +21,7 @@ Untuk membangun alat pengukur indeks massa tubuh ini terdapat beberapa perangkat
 
 ## Kebutuhan Perangkat Lunak
 
-Dalam implementasi kode program, project ini menggunakan beberapa library yaitu;
+Dalam implementasi kode program, project ini menggunakan beberapa aplikasi dan pustaka yaitu;
 
 1. [Arduino IDE](https://https://www.arduino.cc/en/main/software)
 2. Pustaka
