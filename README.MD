@@ -1,6 +1,6 @@
 # Project Untuk Pengukuran Indeks Massa Tubuh *(Body Mass Index)*
 
-![coba](/block_diagram.png)
+![digram](/block_diagram.png)
 
 Inti dari project ini adalah bagaimana membuat sebuah alat pengukur indeks massa tubuh dengan menggunakan arduino dan beberapa perangkat pendukung lainnya. Project ini didesain agar setiap hasil pengukuran indeks massa tubuh dapat ditampilkan secara visual melalui LCD dan *serial monitor*.
 
@@ -17,7 +17,7 @@ Untuk membangun alat pengukur indeks massa tubuh ini yang diperlukan beberapa pe
 
 ## Skematik
 
-![alt](/schematic.png)
+![skema](/schematic.png)
 
 ## Kebutuhan Perangkat Lunak
 
