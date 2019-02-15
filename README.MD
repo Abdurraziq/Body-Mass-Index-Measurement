@@ -26,7 +26,7 @@ Dalam implementasi kode program, project ini menggunakan beberapa aplikasi dan p
 1. [Arduino IDE](https://https://www.arduino.cc/en/main/software)
 2. Pustaka
    1. [Ultrasonic](https://github.com/ErickSimoes/Ultrasonic)
-   2. [Wire](https://https://www.arduino.cc/en/Reference/Wire)
+   2. [Wire](https://www.arduino.cc/en/Reference/Wire)
    3. [LiquidCrystal_I2C](https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library)
    4. [HX711](https://github.com/bogde/HX711)
 
